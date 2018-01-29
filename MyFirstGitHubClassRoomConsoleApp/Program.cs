@@ -14,6 +14,7 @@ namespace MyFirstGitHubClassRoomConsoleApp
             //se herefter på dit GitHub Classroom repo om ændringen er kommet op 
 
             Console.WriteLine("Where did he come from, where did he go? Where did he come from CottenEye Joe?");
+            Console.ReadKey();
         }
     }
 }
